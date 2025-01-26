@@ -4,3 +4,5 @@
 
 para ejecutar el sistema debes poner:
     "abriendo sistema"
+
+    sistema de inicio desactivado
